@@ -64,6 +64,10 @@ params:
               url: papers/
             - name: Data
               url: data/
+            - name: Books
+              url: books/
+            - name: Courses
+              url: courses/
             - name: Tags
               url: tags/
             - name: Archive
@@ -86,6 +90,15 @@ params:
           url: https://scholar.google.com/citations?user=bjcFkccAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/andrewczeidinski
+        - name: YouTube
+          url: https://www.youtube.com/@user
+        - name: Substack
+          url: https://user.substack.com
+        - name: Twitter
+          url: https://x.com/user
+        - name: Bluesky
+          url: https://bsky.app/profile/user.bsky.social
+
     assets:
         disableScrollBarStyle: true
     cover:

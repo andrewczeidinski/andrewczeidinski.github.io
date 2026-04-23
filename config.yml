@@ -79,7 +79,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:user@gmail.com
+          url: mailto:andrewczeidinski@gmail.com
         - name: Zoom
           url: https://www.zoom.us/my/user
         - name: Location

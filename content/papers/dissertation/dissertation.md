@@ -1,7 +1,7 @@
 ---
 title: "Microstructure Control in Organic and Hybrid Semiconductors and Its Impact on Device Performance"
 date: 2026-04-23T14:16:31-04:00
-tags: ["keyword 1", "keyword 2", "keyword 3"]
+tags: ["OFET", "Organic Electronics", "Transistors", "Thin-films", "Device Physics"]
 author: ["Andrew Zeidell"]
 description: "Organic electronics research improving thin-film microstructure to enhance device performance via processing, annealing, and characterization."
 summary: "PhD research on organic semiconductors focused on improving thin-film microstructure to enhance device performance. Combines processing and post-processing (e.g., solvent vapor annealing) with structural and electrical characterization to optimize OFET and hybrid transistor behavior."
@@ -41,36 +41,33 @@ sensors.
 
 ---
 
-#### Praise
-
-> Add an endorsement or review blurb here.
-
----
-
 #### View
 
-+ [Chapter 1](chapter1.pdf)
-+ [Chapter 2](chapter2.pdf)
-+ [Chapter 3](chapter3.pdf)
++ [Full Dissertation](Zeidell_wfu_0248D_11478.pdf)
 
 ---
 
 #### Excerpt
 
-Add a short excerpt, summary passage, or introductory text here.
+As the sizes, yields, and costs per component in integrated circuits have decreased, processors and computers
+have gone from warehouse sized computers like the ENIAC into the hands of many
+people, for personal use. These components are now ubiquitous in modern life, from
+cell phones to laptops and PCs, each containing millions of transistors, and are on
+track to be one of the most manufactured devices in human history, with an estimated
+2.9 sextillion devices made in between 1947 and 2014...
 
 ---
 
 #### Citation
 
-Author Name. 2026. *Dissertation*. City, Country: Publisher. https://example.com/book.
+Zeidell, A.M. 2020. *Microstructure Control in Organic and Hybrid Semiconductors and Its Impact on Device Performance*. Winston-Salem, US: Wake Forest University. https://myzsr.org/handle/10339/96809.
 
 ```latex
 @book{key,
-author = {Author Name},
-year = 2026,
-title = { Dissertation },
-publisher = {Publisher},
-address = {City, Country},
-url = {https://example.com/book}}
+author = {Andrew Zeidell},
+year = 2020,
+title = { Microstructure Control in Organic and Hybrid Semiconductors and Its Impact on Device Performance },
+publisher = {Wake Forest University},
+address = {Winston-Salem, USA},
+url = {https://myzsr.org/handle/10339/96809}}
 ```

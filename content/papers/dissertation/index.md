@@ -1,6 +1,6 @@
 ---
 title: "Microstructure Control in Organic and Hybrid Semiconductors and Its Impact on Device Performance"
-date: 2026-04-23T14:16:31-04:00
+date: 2020-06-23T14:16:31-04:00
 tags: ["OFET", "Organic Electronics", "Transistors", "Thin-films", "Device Physics"]
 author: ["Andrew Zeidell"]
 description: "Organic electronics research improving thin-film microstructure to enhance device performance via processing, annealing, and characterization."

@@ -13,18 +13,16 @@ cover:
     alt: "Figure 1"
     relative: true
 editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "Journal/Repository Name"
+    URL: "https://doi.org/10.1021/acsami.7b03232"
+    Text: "ACS Applied Materials & Interfaces"
 
 ---
 
 ---
 
 ##### Download:
-
-- [Paper](paper.pdf)
-- [Online appendix](appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
+- [Paper](Ward_et_al_2017.pdf)
+- [DOI landing page](https://doi.org/10.1021/acsami.7b03232)
 
 ---
 
@@ -58,9 +56,3 @@ doi = {10.1021/acsami.7b03232},
 URL = {https://doi.org/10.1021/acsami.7b03232},
 eprint = {https://doi.org/10.1021/acsami.7b03232}}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation.pdf)

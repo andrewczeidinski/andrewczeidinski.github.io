@@ -1,20 +1,16 @@
 ---
-title: "Paper Title (less than 70 characters)" 
-date: 2012-06-01
-url: /paper/
-aliases: 
+title: "Indacenodibenzothiophenes for Organic Electronics"
+date: 2016-05-13
+url: /indacenodibenzothiophenes-organic-electronics/
+aliases:
     - /old_url.html
-tags: ["keyword 1","keyword 2","keyword 3","keyword 4","keyword 5","keyword 6","keyword 7","keyword 8"]
-author: ["Paper Author 1", "Paper Author 2"]
-description: "Paper description for search engines (less than 155 characters)" 
-summary: "Paper summary for list page (less than 265 characters)"
-cover:
-    image: "paper_figure.png"
-    alt: "Figure title (preferably 1280x720 pixels)"
-    relative: true
+tags: ['organic semiconductors', 'indacenodibenzothiophenes', 'antiaromaticity', 'organic field-effect transistors', 'optoelectronic properties', 'molecular design', 'charge transport', 'chemical science']
+author: ['Jonathan L. Marshall', 'Kazuyuki Uchida', 'Conerd K. Frederickson', 'Christian Schutt', 'Andrew M. Zeidell', 'Katelyn P. Goetz', 'Tristan W. Finn', 'Karol Jarolimek', 'Lev N. Zakharov', 'Chad Risko', 'Rainer Herges', 'Oana D. Jurchescu', 'Michael M. Haley']
+description: "Studies indacenodibenzothiophenes as antiaromatic organic semiconductors for optoelectronic and OFET applications."
+summary: "This paper combines synthesis, computation, structure, and device measurements to evaluate strongly antiaromatic indacenodibenzothiophenes for organic electronics."
 editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "Journal/Repository Name"
+    URL: "https://doi.org/10.1039/C6SC00950F"
+    Text: "Chemical Science"
 
 ---
 
@@ -22,42 +18,29 @@ editPost:
 
 ##### Download:
 
-- [Paper](paper.pdf)
-- [Online appendix](appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
+- [Paper](indacenodibenzothiophenes.pdf)
+- [DOI landing page](https://doi.org/10.1039/C6SC00950F)
 
 ---
 
 ##### Abstract:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-##### Figure X:  Figure title
-
-![](figurex.png)
+Indeno[1,2-b]fluorenes (IFs), while containing 4n pi-electrons, are best described as two aromatic benzene rings fused to a weakly paratropic s-indacene core. In this study, we find that replacement of the outer benzene rings of an IF with benzothiophenes allows the antiaromaticity of the central s-indacene to strongly reassert itself. Herein we report a combined synthetic, computational, structural, and materials study of anti- and syn-indacenodibenzothiophenes (IDBTs). An efficient and scalable synthesis for a series of aryl- and ethynyl-substituted IDBTs was developed. NICS-XY scans and ACID calculations revealed an increasingly antiaromatic core from [1,2-b]IF to anti-IDBT, with syn-IDBT being nearly as antiaromatic as the parent s-indacene. As an initial evaluation, the intermolecular electronic couplings and electronic band structure of a diethynyl anti-IDBT derivative reveal the potential for hole and/or electron transport. OFETs constructed using this molecule show the highest hole mobilities yet achieved for a fully conjugated IF derivative.
 
 ---
 
 ##### Citation
 
-Author 1, Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Marshall, Jonathan L., Kazuyuki Uchida, Conerd K. Frederickson, Christian Schutt, Andrew M. Zeidell, Katelyn P. Goetz, Tristan W. Finn, Karol Jarolimek, Lev N. Zakharov, Chad Risko, Rainer Herges, Oana D. Jurchescu, and Michael M. Haley. 2016. "Indacenodibenzothiophenes: synthesis, optoelectronic properties and materials applications of molecules with strong antiaromatic character." *Chemical Science* 7(8): 5547-5558. https://doi.org/10.1039/C6SC00950F.
 
 ```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title = {Title},
-volume = {Volume},
-year = {Year}}
+@article{Marshall2016Indacenodibenzothiophenes,
+author = {Marshall, Jonathan L. and Uchida, Kazuyuki and Frederickson, Conerd K. and Schutt, Christian and Zeidell, Andrew M. and Goetz, Katelyn P. and Finn, Tristan W. and Jarolimek, Karol and Zakharov, Lev N. and Risko, Chad and Herges, Rainer and Jurchescu, Oana D. and Haley, Michael M.},
+doi = {10.1039/C6SC00950F},
+journal = {Chemical Science},
+number = {8},
+pages = {5547--5558},
+title = {Indacenodibenzothiophenes: synthesis, optoelectronic properties and materials applications of molecules with strong antiaromatic character},
+volume = {7},
+year = {2016}}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation.pdf)

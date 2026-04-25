@@ -22,6 +22,7 @@ editPost:
 
 ##### Download:
 
+- [Paper](charge_carrier_traps_organic_semiconductors.pdf)
 - [DOI landing page](https://doi.org/10.1039/C9TC05695E)
 
 ---
@@ -52,4 +53,3 @@ title = {Charge carrier traps in organic semiconductors: a review on the underly
 volume = {8},
 year = {2020}}
 ```
-

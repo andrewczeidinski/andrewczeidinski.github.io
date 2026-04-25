@@ -1,20 +1,16 @@
 ---
-title: "Paper Title (less than 70 characters)" 
-date: 2012-06-01
-url: /paper/
-aliases: 
+title: "Iron Dimer Precursor for Carbon Nanotube Synthesis"
+date: 2015-01-01
+url: /cyclopentadienyliron-dicarbonyl-dimer-carbon-nanotube-synthesis/
+aliases:
     - /old_url.html
-tags: ["keyword 1","keyword 2","keyword 3","keyword 4","keyword 5","keyword 6","keyword 7","keyword 8"]
-author: ["Paper Author 1", "Paper Author 2"]
-description: "Paper description for search engines (less than 155 characters)" 
-summary: "Paper summary for list page (less than 265 characters)"
-cover:
-    image: "paper_figure.png"
-    alt: "Figure title (preferably 1280x720 pixels)"
-    relative: true
+tags: ['carbon nanotubes', 'chemical vapor deposition', 'cyclopentadienyliron dicarbonyl dimer', 'nanomaterials', 'multiwalled carbon nanotubes', 'materials synthesis', 'electron microscopy', 'nanotechnology']
+author: ['Andrew M. Zeidell', 'Nathanael D. Cox', 'Shawn M. Huston', 'Jamie E. Rossi', 'Brian J. Landi', 'Brad R. Conrad']
+description: "Reports chemical vapor deposition synthesis of aligned multiwalled carbon nanotubes from an iron dimer precursor."
+summary: "This work studies cyclopentadienyliron dicarbonyl dimer as a precursor for CVD growth of aligned multiwalled carbon nanotubes."
 editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "Journal/Repository Name"
+    URL: "https://doi.org/10.1116/1.4904743"
+    Text: "Journal of Vacuum Science & Technology B"
 
 ---
 
@@ -22,42 +18,29 @@ editPost:
 
 ##### Download:
 
-- [Paper](paper.pdf)
-- [Online appendix](appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
+- [Paper](iron_dimer_carbon_nanotube_synthesis.pdf)
+- [DOI landing page](https://doi.org/10.1116/1.4904743)
 
 ---
 
 ##### Abstract:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-##### Figure X:  Figure title
-
-![](figurex.png)
+Well-aligned multiwalled carbon nanotubes (MWCNTs) were synthesized from a cyclopentadienyliron dicarbonyl dimer precursor using chemical vapor deposition and were systematically characterized over a variety of growth conditions. The injection volume of the precursor affected both the MWCNT diameter distribution and the amount of residual iron catalyst found in the sample. Low injection volumes produced relatively low impurity samples, while changes in growth conditions altered the nanotube morphology and residual catalyst content. These results demonstrate the use of cyclopentadienyliron dicarbonyl dimer as an organometallic precursor for carbon nanotube synthesis and clarify how precursor delivery influences nanotube growth.
 
 ---
 
 ##### Citation
 
-Author 1, Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Zeidell, Andrew M., Nathanael D. Cox, Shawn M. Huston, Jamie E. Rossi, Brian J. Landi, and Brad R. Conrad. 2015. "Cyclopentadienyliron dicarbonyl dimer carbon nanotube synthesis." *Journal of Vacuum Science & Technology B, Nanotechnology and Microelectronics: Materials, Processing, Measurement, and Phenomena* 33(1): 011204. https://doi.org/10.1116/1.4904743.
 
 ```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title = {Title},
-volume = {Volume},
-year = {Year}}
+@article{Zeidell2015IronDimerNanotubes,
+author = {Zeidell, Andrew M. and Cox, Nathanael D. and Huston, Shawn M. and Rossi, Jamie E. and Landi, Brian J. and Conrad, Brad R.},
+doi = {10.1116/1.4904743},
+journal = {Journal of Vacuum Science \& Technology B, Nanotechnology and Microelectronics: Materials, Processing, Measurement, and Phenomena},
+number = {1},
+pages = {011204},
+title = {Cyclopentadienyliron dicarbonyl dimer carbon nanotube synthesis},
+volume = {33},
+year = {2015}}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation.pdf)

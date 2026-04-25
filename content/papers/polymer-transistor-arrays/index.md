@@ -22,7 +22,6 @@ editPost:
 
 ##### Download:
 
-- [Paper](large_area_polymer_transistor_arrays.pdf)
 - [DOI landing page](https://doi.org/10.1002/admt.202000390)
 
 ---

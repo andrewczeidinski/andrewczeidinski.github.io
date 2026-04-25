@@ -1,16 +1,16 @@
 ---
-title: "Paper Title (less than 70 characters)" 
-date: 2012-06-01
-url: /paper/
+title: "Solution-Processed Organic and Halide Perovskite Transistors on Hydrophobic Surfaces" 
+date: 2017-05-31
+url: /perovskite-transistors-hydrophobic-surfaces/
 aliases: 
     - /old_url.html
-tags: ["keyword 1","keyword 2","keyword 3","keyword 4","keyword 5","keyword 6","keyword 7","keyword 8"]
-author: ["Paper Author 1", "Paper Author 2"]
-description: "Paper description for search engines (less than 155 characters)" 
-summary: "Paper summary for list page (less than 265 characters)"
+tags: ["organic thin-film transistors","flexible electronics","organic semiconductors","halide perovskites","charge carrier mobility"]
+author: ["Jeremy W. Ward", "Andrew M. Zeidell", "Hannah L. Smith", "Peter J. Diemer", "Stephen R. Baker", "Hyunsu Lee", "Marcia M. Payne", "John E. Anthony", "Martin Guthold", "Oana D. Jurchescu"]
+description: "Protein treatment improves wettability of Cytop dielectrics, enabling high-performance solution-processed OFET and perovskite FET devices." 
+summary: "A protein-based surface treatment improves wettability of hydrophobic Cytop dielectrics for solution-processed transistors. Applied to OFETs and perovskite FETs on flexible substrates, it preserves low trap density while achieving good mobility, near-zero threshold voltage, and low hysteresis."
 cover:
-    image: "paper_figure.png"
-    alt: "Figure title (preferably 1280x720 pixels)"
+    image: "cover_image.png"
+    alt: "Figure 1"
     relative: true
 editPost:
     URL: "https://doi.org/paper_doi"
@@ -30,30 +30,33 @@ editPost:
 
 ##### Abstract:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Solution-processable electronic devices are highly desirable due to their low cost and compatibility with flexible substrates. However, they are often challenging to fabricate due to the hydrophobic nature of the surfaces of the constituent layers. Here, we use a protein solution to modify the surface properties and to improve the wettability of the fluoropolymer dielectric Cytop. The engineered hydrophilic surface is successfully incorporated in bottom-gate solution-deposited organic field-effect transistors (OFETs) and hybrid organic–inorganic trihalide perovskite field-effect transistors (HTP-FETs) fabricated on flexible substrates. Our analysis of the density of trapping states at the semiconductor–dielectric interface suggests that the increase in the trap density as a result of the chemical treatment is minimal. As a result, the devices exhibit good charge carrier mobilities, near-zero threshold voltages, and low electrical hysteresis.
 
 ---
 
-##### Figure X:  Figure title
+##### Graphical Abstract
 
-![](figurex.png)
+![](graphical_abstract.png)
 
 ---
 
 ##### Citation
 
-Author 1, Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Jeremy W. Ward, Hannah L. Smith, Andrew Zeidell, Peter J. Diemer, Stephen R. Baker, Hyunsu Lee, Marcia M. Payne, John E. Anthony, Martin Guthold, and Oana D. Jurchescu. 2017. "Solution-Processed Organic and Halide Perovskite Transistors on Hydrophobic Surfaces." *ACS Applied Materials & Interfaces* 9 (21): 18120-18126. https://doi.org/10.1021/acsami.7b03232.
 
 ```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title = {Title},
-volume = {Volume},
-year = {Year}}
+@article{Ward2017PerovskiteCytop,
+author = {Ward, Jeremy W. and Smith, Hannah L. and Zeidell, Andrew and Diemer, Peter J. and Baker, Stephen R. and Lee, Hyunsu and Payne, Marcia M. and Anthony, John E. and Guthold, Martin and Jurchescu, Oana D.},
+title = {Solution-Processed Organic and Halide Perovskite Transistors on Hydrophobic Surfaces},
+journal = {ACS Applied Materials \& Interfaces},
+volume = {9},
+number = {21},
+pages = {18120-18126},
+year = {2017},
+doi = {10.1021/acsami.7b03232},
+    note ={PMID: 28485580},
+URL = {https://doi.org/10.1021/acsami.7b03232},
+eprint = {https://doi.org/10.1021/acsami.7b03232}}
 ```
 
 ---

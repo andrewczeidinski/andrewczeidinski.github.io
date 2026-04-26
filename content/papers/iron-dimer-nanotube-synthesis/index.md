@@ -8,6 +8,10 @@ tags: ['carbon nanotubes', 'chemical vapor deposition', 'cyclopentadienyliron di
 author: ['Andrew M. Zeidell', 'Nathanael D. Cox', 'Shawn M. Huston', 'Jamie E. Rossi', 'Brian J. Landi', 'Brad R. Conrad']
 description: "Reports chemical vapor deposition synthesis of aligned multiwalled carbon nanotubes from an iron dimer precursor."
 summary: "This work studies cyclopentadienyliron dicarbonyl dimer as a precursor for CVD growth of aligned multiwalled carbon nanotubes."
+cover:
+    image: "Figure_1.png"
+    alt: "Graphical abstract or representative figure"
+    relative: true
 editPost:
     URL: "https://doi.org/10.1116/1.4904743"
     Text: "Journal of Vacuum Science & Technology B"
@@ -26,6 +30,12 @@ editPost:
 ##### Abstract:
 
 Well-aligned multiwalled carbon nanotubes (MWCNTs) were synthesized from a cyclopentadienyliron dicarbonyl dimer precursor using chemical vapor deposition and were systematically characterized over a variety of growth conditions. The injection volume of the precursor was found to affect both the MWCNT diameter distribution and the amount of residual iron catalyst found in the sample. Low injection volumes produced relatively low impurity samples. Synthesized materials contained as little as 2.47% catalyst impurity by weight and were grown without predeposition of catalyst materials onto the substrate, reducing the need for damaging purification processes necessary to remove the substrate. Scanning electron microscopy was used to investigate catalyst contamination, synthesized MWCNT diameters, and growth morphology. Additionally, transmission electron microscopy was employed to qualitatively examine nanotube wall formation and sidewall defects. Longer growth times resulted in a higher quality product. Raman spectroscopy was used in conjunction with thermogravimetric analysis to confirm sample quality. The relative efficacy of the precursor and material quality are evaluated.
+
+---
+
+##### Cover Art for JVST B
+
+![](Cover_Art.png)
 
 ---
 

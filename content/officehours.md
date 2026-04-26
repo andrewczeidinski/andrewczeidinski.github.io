@@ -2,19 +2,19 @@
 title: "Office Hours"
 date: 2024-05-08
 hidemeta: true
-description: "Schedule and location for Professor Dr von Igelfeld's office hours."
+description: "Dr. Czeidinski does not currently have office hours."
 ---
 
 --- 
 #### Schedule
 
-Office hours take place on Wednesday at 10am.
+
 
 ---
 
 #### Location
 
-By default meetings are in my office. I am also available for virtual meetings on Zoom.
+
 
 ---
 

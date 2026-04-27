@@ -12,20 +12,11 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: https://substack.com/@andrewczeidinski
           weight: 6
 
 params:
@@ -44,7 +35,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["publications"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,28 +51,20 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
+            - name: Publications
+              url: publications/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://substack.com/@andrewczeidinski
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:andrewczeidinski@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/user
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=bjcFkccAAAAJ&hl=en
         - name: GitHub
